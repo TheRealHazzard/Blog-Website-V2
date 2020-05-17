@@ -1,0 +1,1 @@
+A minimalistic Blog website created using NodeJs and EJS. A database connectivivty is provided using MongoDB atlas.
